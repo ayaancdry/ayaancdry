@@ -30,7 +30,6 @@ If you have any questions, collaboration opportunities, or simply want to reach 
 
 ---
 
-![Ayaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayaancdry&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaancdry&layout=compact&theme=radical)
 
 
