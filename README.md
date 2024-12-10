@@ -22,8 +22,5 @@ If you have any questions, collaboration opportunities, or simply want to reach 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaancdry&layout=compact&theme=radical)
 
-![Ayaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayaancdry&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayaancdry&theme=radical)
 
-
-
-Thanks for visiting my profile!
