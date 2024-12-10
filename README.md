@@ -21,6 +21,5 @@ If you have any questions, collaboration opportunities, or simply want to reach 
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaancdry&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayaancdry&theme=radical)
+![Ayaan's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ayaancdry&theme=radical)
 
