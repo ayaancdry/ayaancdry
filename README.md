@@ -1,16 +1,10 @@
-## 👋 Hello, I'm Ayaan Choudhury!
+## Hello, I'm Ayaan Choudhury!
 
-### 🌟 About Me
-Undergrad at [Indian Institute of Technology Jodhpur](https://iitj.ac.in/) & a researcher in AI/ML, focusing on computer vision, generative AI models and robotics, with an emphasis on machine vision and human-machine interaction. 
+I am an undergrad at [Indian Institute of Technology Jodhpur](https://iitj.ac.in/), pursuing research in AI/ML, focusing on computer vision, generative AI models and robotics, with an emphasis on machine vision, shared autonomy techniques. 
 
-💼 **Skills**:
-- **Programming Languages**: C, Python
-- **Machine Learning & Deep Learning**: Machine Learning Algorithms, Deep Learning Frameworks
-- **Libraries & Tools**: NumPy, Pandas, PyTorch, OpenCV, detectron2, Tesseract, PaddleOCR
-- **UI/UX & Graphic Design**: Figma, Adobe Illustrator
+Currently vibing with RL & trying to crack a new AI concept every day.
 
-
-📫 **Contact Me**:
+**Contact**:
 
 If you have any questions, collaboration opportunities, or simply want to reach out, feel free to connect with me:
 
