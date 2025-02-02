@@ -11,10 +11,10 @@ Currently vibing with RL & trying to crack a new AI concept every day.
 - Multiagent Cooperation and Competition with Deep Reinforcement Learning **[[paper]](https://arxiv.org/pdf/1511.08779.pdf)** ✅ 
 - Deep Recurrent Q-Learning for Partially Observable MDPs, Hausknecht and Stone, 2015. Algorithm: `Deep Recurrent Q-Learning(DRQN)` **[[paper_annot]](https://github.com/tylertaewook/RLpapers/blob/main/DRQN_annot.pdf)** ✅ 
 - Prioritized Experience Replay, Schaul et al, 2015. Algorithm: `Prioritized Experience Replay (PER)` **[[paper]](https://arxiv.org/abs/1511.05952)**
-- Dueling **[[paper]](https://arxiv.org/pdf/1511.06581.pdf)**
-- Distributional **[[paper]](https://arxiv.org/pdf/1707.06887.pdf)**
-- Rainbow **[[paper]](https://arxiv.org/abs/1710.02298)**
-- Quantile Regression **[[paper]](https://arxiv.org/abs/1710.10044)**
+  - Dueling **[[paper]](https://arxiv.org/pdf/1511.06581.pdf)**
+  - Distributional **[[paper]](https://arxiv.org/pdf/1707.06887.pdf)**
+  - Rainbow **[[paper]](https://arxiv.org/abs/1710.02298)**
+  - Quantile Regression **[[paper]](https://arxiv.org/abs/1710.10044)**
 
 **Contact**
 [b23me1013@iitj.ac.in](mailto:b23me1013@iitj.ac.in) | [ayaan.cdry@gmail.com](mailto:ayaan.cdry@gmail.com)
