@@ -6,6 +6,7 @@ Currently vibing with RL & trying to crack a new AI concept every day.
 
 **Tasklist**:
 - Richard Sutton's [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html) 🚧 *2024.12.12-*
+- Zhiqing Xiao's [Reinforcement Learning](https://link.springer.com/book/10.1007/978-981-19-4933-3) 🚧 *2025.02.26-*
 - Playing Atari with Deep Reinforcement Learning, 2013. Algorithm: `DQN` **[[paper_annot]](https://github.com/tylertaewook/RLpapers/blob/main/DQN_annot.pdf) [[code]](https://github.com/tylertaewook/RLpapers/blob/main/DQN.ipynb)** ✅ 
 - Human-level control through deep reinforcement learning, 2015. Algorithm: `DQN` **[[paper]](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)**
 - Multiagent Cooperation and Competition with Deep Reinforcement Learning **[[paper]](https://arxiv.org/pdf/1511.08779.pdf)** ✅ 
