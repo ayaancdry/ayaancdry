@@ -15,6 +15,7 @@ Currently vibing with RL & trying to crack a new AI concept every day.
   - Distributional **[[paper]](https://arxiv.org/pdf/1707.06887.pdf)**
   - Rainbow **[[paper]](https://arxiv.org/abs/1710.02298)**
   - Quantile Regression **[[paper]](https://arxiv.org/abs/1710.10044)**
+- Automated Control Method of Multiple Peg-in-Hole Assembly for Relay and Its Socket, 2024. **[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10721256)**✅ 
 
 **Contact:**
 <br>
