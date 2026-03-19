@@ -15,6 +15,4 @@ When I'm not debugging why my robot thinks it's somewhere it's not, I'm probably
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaancdry&layout=compact&theme=radical)
-
 **[ayaan.cdry@gmail.com](mailto:ayaan.cdry@gmail.com)** | **[Portfolio](https://ayaancdry.github.io/)** | **[LinkedIn](https://www.linkedin.com/in/ayaan-choudhury/)**
