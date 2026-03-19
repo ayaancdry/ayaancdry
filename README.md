@@ -1,6 +1,6 @@
 ## Hey, I'm Ayaan Choudhury 👋
 
-Second-year undergrad at [IIT Jodhpur](https://iitj.ac.in/), studying Mechanical Engineering with a specialization in Robotics & Mobility Systems.
+Pre-Final undergrad at [IIT Jodhpur](https://iitj.ac.in/), studying Mechanical Engineering with a specialization in Robotics & Mobility Systems.
 
 I spend most of my time trying to get robots to understand the world, teaching them to *see* where they are, *feel* what they're touching, and *move* like they mean it. Somewhere at the intersection of perception, manipulation, and reinforcement learning is where I live.
 
@@ -17,4 +17,4 @@ When I'm not debugging why my robot thinks it's somewhere it's not, I'm probably
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaancdry&layout=compact&theme=radical)
 
-**[ayaan.cdry@gmail.com](mailto:ayaan.cdry@gmail.com)** | **[Portfolio](your-link)** | **[LinkedIn](your-link)**
+**[ayaan.cdry@gmail.com](mailto:ayaan.cdry@gmail.com)** | **[Portfolio](https://ayaancdry.github.io/)** | **[LinkedIn](https://www.linkedin.com/in/ayaan-choudhury/)**
