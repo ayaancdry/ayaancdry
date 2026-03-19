@@ -1,29 +1,20 @@
-## Hello, I'm Ayaan Choudhury!
+## Hey, I'm Ayaan Choudhury 👋
 
-I am an undergrad at [Indian Institute of Technology Jodhpur](https://iitj.ac.in/), pursuing research in AI/ML, focusing on computer vision, generative AI models and robotics, with an emphasis on machine vision, shared autonomy techniques. 
+Second-year undergrad at [IIT Jodhpur](https://iitj.ac.in/), studying Mechanical Engineering with a specialization in Robotics & Mobility Systems.
 
-Currently vibing with RL & trying to crack a new AI concept every day.
+I spend most of my time trying to get robots to understand the world, teaching them to *see* where they are, *feel* what they're touching, and *move* like they mean it. Somewhere at the intersection of perception, manipulation, and reinforcement learning is where I live.
 
-**Tasklist**:
-- Richard Sutton's [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html) 🚧 *2024.12.12-*
-- Zhiqing Xiao's [Reinforcement Learning](https://link.springer.com/book/10.1007/978-981-19-4933-3) 🚧 *2025.02.26-*
-- Playing Atari with Deep Reinforcement Learning, 2013. Algorithm: `DQN` **[[paper_annot]](https://github.com/tylertaewook/RLpapers/blob/main/DQN_annot.pdf) [[code]](https://github.com/tylertaewook/RLpapers/blob/main/DQN.ipynb)** ✅ 
-- Human-level control through deep reinforcement learning, 2015. Algorithm: `DQN` **[[paper]](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)**
-- Multiagent Cooperation and Competition with Deep Reinforcement Learning **[[paper]](https://arxiv.org/pdf/1511.08779.pdf)** ✅ 
-- Deep Recurrent Q-Learning for Partially Observable MDPs, Hausknecht and Stone, 2015. Algorithm: `Deep Recurrent Q-Learning(DRQN)` **[[paper_annot]](https://github.com/tylertaewook/RLpapers/blob/main/DRQN_annot.pdf)** ✅ 
-- Prioritized Experience Replay, Schaul et al, 2015. Algorithm: `Prioritized Experience Replay (PER)` **[[paper]](https://arxiv.org/abs/1511.05952)**
-  - Dueling **[[paper]](https://arxiv.org/pdf/1511.06581.pdf)**
-  - Distributional **[[paper]](https://arxiv.org/pdf/1707.06887.pdf)**
-  - Rainbow **[[paper]](https://arxiv.org/abs/1710.02298)**
-  - Quantile Regression **[[paper]](https://arxiv.org/abs/1710.10044)**
-- Automated Control Method of Multiple Peg-in-Hole Assembly for Relay and Its Socket, 2024. **[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10721256)** ✅ 
+Currently obsessed with making robots less clueless in the real world. Point clouds, force sensors, sim-to-real gaps : the whole circus.
 
-**Contact:**
-<br>
-[b23me1013@iitj.ac.in](mailto:b23me1013@iitj.ac.in) | [ayaan.cdry@gmail.com](mailto:ayaan.cdry@gmail.com)
+When I'm not debugging why my robot thinks it's somewhere it's not, I'm probably reading a paper that'll make me rewrite everything I just wrote.
 
+**I care about:**
+- robots that can localize themselves without losing the plot
+- manipulation that doesn't fall apart the moment geometry changes
+- models that transfer from sim to reality without crying
 
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaancdry&layout=compact&theme=radical)
 
+**[ayaan.cdry@gmail.com](mailto:ayaan.cdry@gmail.com)** | **[Portfolio](your-link)** | **[LinkedIn](your-link)**
