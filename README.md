@@ -13,9 +13,6 @@ When I'm not debugging why my robot thinks it's somewhere it's not, I'm probably
 - manipulation that doesn't fall apart the moment geometry changes
 - models that transfer from sim to reality without crying
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaancdry)](https://github.com/ayaancdry/github-readme-stats)
-
-
 ---
 
 **[ayaan.cdry@gmail.com](mailto:ayaan.cdry@gmail.com)** | **[Portfolio](https://ayaancdry.github.io/)** | **[LinkedIn](https://www.linkedin.com/in/ayaan-choudhury/)**
